@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy @alexanderrotela20</h1>
+<h1 align="center">Hola 👋, Soy Alexander Rotela </h1>
 
 <h3 align="center">Apacionado por la programación desde los 16 años.</h2>
 
