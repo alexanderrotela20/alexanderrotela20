@@ -2,7 +2,7 @@
 
 <div align="center">
 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=450&lines=Apacionado+por+la+programación;desde+16+los+años.;" alt="Desarrollador Mobile y Web"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=450&lines=Apacionado+por+la+programación;desde+16+los+años.;" alt="Desarrollador Mobile y Web"></a>
 
 </div>
 
