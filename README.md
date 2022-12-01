@@ -1,14 +1,14 @@
-<h1 align="center">Hola 👋, Soy Alexander Rotela </h1>
+<h2 align="center">Hola 👋, Soy Alexander Rotela </h2>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=450&lines=Apacionado+por+la+programación;desde+16+los+años.;" alt="Desarrollador Mobile y Web"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=4287f4&size=28&center=true&vCenter=true&width=1000&lines=Apacionado+por+la+programación+desde+los+16+años.; Desarrollador de aplicaciones móviles en android;" alt="Desarrollador Mobile y Web"></a>
 
 </div>
 
-<h3 align="center">Itapúa - Paraguay 🇵🇾
 
- 📩 Contáctame **alexanderrotela2000@gmail.com**
+
+
 
 <h3 align="left">Sigueme en:</h3>
 
